@@ -62,4 +62,4 @@ public class Character {
 
 ## UML Diagram
 
-![img](uml.png)
+![img](./umlstrat.png)
