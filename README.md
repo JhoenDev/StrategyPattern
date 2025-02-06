@@ -61,5 +61,5 @@ public class Character {
 
 
 ## UML Diagram
-![img](./uml.png)
+![img](./uml.png) 
 
